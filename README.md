@@ -13,7 +13,7 @@ The District Proposal Standard is a template for proposals designed to ensure th
 
 **Purpose**: purpose of the proposed district
 
-**Interface**: choose one of the following: List, Thumbnail, Gallery (see Craigslist for examples of each
+**Interface**: choose one of the following: List, Thumbnail, Gallery (see Craigslist for examples of each)
 
 **Auxiliary Module Requirements**: functionality needed in addition to d0xINFRA
 
