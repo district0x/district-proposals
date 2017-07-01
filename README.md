@@ -18,7 +18,7 @@ The District Proposal Standard is a template for proposals designed to ensure th
 **Description**: describe how the district should operate in detail
 
 ## district0x Network Code of Ethics
-To be defined
+See DGP 1 in 'issues' in the district0x/governance repository
 
 ## Quorum
 Quorum is currently defined as: number of :thumbsup: for issue ≥ (district0x Slack member count / 25) 
@@ -29,4 +29,4 @@ To incentivize the submission of thoughtful district proposals, the following re
 * 25000  DNT = Proposal obtains quorum
 * 250000 DNT = Proposal is launched as a new district on the district0x Network
 
-Note: Proposal incentive reward amounts are subject to change in the event of abuse of the system.
+Note: Proposal incentive reward amounts are subject to change in the event of abuse of the system
