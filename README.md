@@ -10,8 +10,13 @@ To be deemed as a 'qualifying proposal' the following conditions must be met:
 The District Proposal Standard is a template for proposals designed to ensure that submissions have been well thought through and contain a sufficient amount of supporting details for the community to make an informed decision in regards to its potential utility afforded. All proposals should be structured as follows:
 
 **Name**: the name of the proposed district
+
 **Purpose**: purpose of the proposed district
+
 **Interface**: choose one of the following: List, Thumbnail, Gallery (see Craigslist for examples of each
+
 **Auxiliary Module Requirements**: functionality needed in addition to d0xINFRA
+
 **Native Token**: does the proposed district need a native token? yes or no. if yes, why
+
 **Implementation Design**: describe how the district should operate in specific detail
