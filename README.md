@@ -13,7 +13,7 @@ The District Proposal Standard is a template for proposals designed to ensure th
 
 **Name**: the name of the proposed district
 
-**Purpose**: purpose of the proposed district
+**Purpose**: the purpose of the proposed district
 
 **Description**: describe how the district should operate in detail
 
