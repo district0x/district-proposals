@@ -21,6 +21,6 @@ The District Proposal Standard is a template for proposals designed to ensure th
 
 **Implementation Design**: describe how the district should operate in specific detail
 ## district0x Network Code of Ethics
-See Code of Ethics in district0x/governance repository
+See 'Code of Ethics' in district0x/governance repository
 ## Quorum
 Quorum is currently defined as: number of :thumbsup: for issue ≥ (district0x Slack member count / 25) 
