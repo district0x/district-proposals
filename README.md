@@ -1,5 +1,5 @@
 # District Proposals
-The district0x Network Token allows holders to signal for new districts to be built by the district0x Team. Prior to the launch of Aragon Core on the Ethereum MainNet, signaling will be conducted via a custom CarbonVote implementation. The CarbonVote implementation will be manually populated with proposals that have been deemed as 'qualifying'.
+The district0x Network Token allows holders to signal for new districts to be built by the district0x Team. Prior to the launch of Aragon Core on the Ethereum MainNet, signaling will be occur via a custom CarbonVote implementation. The CarbonVote implementation will be manually populated with proposals that have been deemed as 'qualifying'.
 ## Qualifying Proposals
 To be deemed as a 'qualifying proposal' the following conditions must be met:
 * The proposal was submitted as an issue in the district0x/district-proposals repository
