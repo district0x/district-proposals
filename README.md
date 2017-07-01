@@ -25,6 +25,6 @@ Quorum is currently defined as: number of :thumbsup: for issue ≥ (district0x S
 
 ## Proposal Incentives
 To incentivize the submission of thoughtful district proposals, the following rewards will be issued:
-* 2500   DNT = Proposal submitted as issue, adheres to District Proposal Standard, and is ethical
+* 500   DNT = Proposal submitted as issue, adheres to District Proposal Standard, and is ethical
 * 25000  DNT = Proposal obtains quorum
 * 250000 DNT = Proposal is launched as a new district on the district0x Network
