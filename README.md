@@ -15,13 +15,7 @@ The District Proposal Standard is a template for proposals designed to ensure th
 
 **Purpose**: purpose of the proposed district
 
-**Interface**: choose one of the following: List, Thumbnail, Gallery (see Craigslist for examples of each)
-
-**Auxiliary Module Requirements**: functionality needed in addition to d0xINFRA
-
-**Native Token**: does the proposed district need a native token? yes or no. if yes, why
-
-**Implementation Design**: describe how the district should operate in specific detail
+**Description**: describe how the district should operate in detail
 
 ## district0x Network Code of Ethics
 See 'district0x Network Code of Ethics' in district0x/governance repository
