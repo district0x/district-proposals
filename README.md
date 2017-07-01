@@ -28,3 +28,5 @@ To incentivize the submission of thoughtful district proposals, the following re
 * 500   DNT = Proposal submitted as issue, adheres to District Proposal Standard, and is ethical
 * 25000  DNT = Proposal obtains quorum
 * 250000 DNT = Proposal is launched as a new district on the district0x Network
+
+Note: Proposal incentive reward amounts are subject to change in the event of abuse of the system.
