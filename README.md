@@ -21,7 +21,7 @@ The District Proposal Standard is a template for proposals designed to ensure th
 See DGP 1 in 'issues' in the district0x/governance repository
 
 ## Quorum
-Quorum is currently defined as: number of :thumbsup: for issue ≥ (district0x Slack member count / 25) 
+Quorum is currently defined as: number of :thumbsup: for issue ≥ (district0x Slack member count / 50) 
 
 ## Proposal Incentives
 To incentivize the submission of thoughtful district proposals, the following rewards will be issued:
