@@ -3,9 +3,9 @@ The district0x Network Token allows holders to signal for new districts to be bu
 
 ## Qualifying Proposals
 To be deemed as a 'qualifying proposal' the following conditions must be met:
-* The proposal was submitted as an issue in the district0x/district-proposals repository
-* The proposed district adheres to the District Proposal Standard template
-* The proposed district is not unethical, as defined by the district0x Network Code of Ethics
+* The proposal was submitted as an issue in the [district0x/district-proposals](https://github.com/district0x/district-proposals) repository
+* The proposed district adheres to the [District Proposal Standard template](#district-proposal-standard)
+* The proposed district is not unethical, as defined by the [district0x Network Code of Ethics](#district0x-network-code-of-ethics)
 * The proposed district has obtained quorum
 
 ## District Proposal Standard
@@ -18,7 +18,7 @@ The District Proposal Standard is a template for proposals designed to ensure th
 **Description**: describe how the district should operate in detail
 
 ## district0x Network Code of Ethics
-See DGP 1 in 'issues' in the district0x/governance repository
+See [DGP 1](https://github.com/district0x/governance/issues/1) in 'issues' in the [district0x/governance](https://github.com/district0x/governance/) repository
 
 ## Quorum
 Quorum is currently defined as: number of :thumbsup: for issue ≥ (district0x Slack member count / 50) 
