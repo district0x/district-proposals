@@ -30,3 +30,16 @@ To incentivize the submission of thoughtful district proposals, the following re
 * 500000 DNT = Proposal is launched as a new district on the district0x Network
 
 Note: Proposal incentive reward amounts are subject to change in the event of abuse of the system
+
+## How to vote from MyEtherWallet
+1. Go to https://www.myetherwallet.com/#contracts
+2. Into `Contract Address` put `0xb1618a0bff4e017e1932c4f0ac93d27e4c08d17a`
+3. Into ABI / JSON Interface put following:
+```
+[{"constant":false,"inputs":[{"name":"candidate","type":"uint256"}],"name":"vote","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[{"name":"offset","type":"uint256"},{"name":"limit","type":"uint256"}],"name":"getVoters","outputs":[{"name":"_voters","type":"address[]"},{"name":"_candidates","type":"uint256[]"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"votersCount","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":true,"inputs":[{"name":"","type":"address"}],"name":"votes","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"voters","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"anonymous":false,"inputs":[{"indexed":true,"name":"voter","type":"address"},{"indexed":true,"name":"candidate","type":"uint256"}],"name":"onVote","type":"event"}]
+```
+4. Press `Access`
+5. Select function -> `vote`
+6. Into `Candidate` put number of your preferred proposal that's next to `ID:` at https://vote.district0x.io/
+7. Send transaction as regular. **No Ether or DNT is required to send**. Recommended gas limit is 100000   
+
