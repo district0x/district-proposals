@@ -40,6 +40,6 @@ Note: Proposal incentive reward amounts are subject to change in the event of ab
 ```
 4. Press `Access`
 5. Select function -> `vote`
-6. In the `Candidate` field put the number of your preferred proposal, which is shown as the `ID:` on the voting interface
-7. Send the transaction as you normally would. **No Ether or DNT is required to send**. The recommended gas limit is 100000   
+6. In the `Candidate` field put the number of your selection, which is shown as the `ID:` on the voting interface
+7. Send the transaction. **No Ether or DNT is required to send**. The recommended gas limit is 100000   
 
