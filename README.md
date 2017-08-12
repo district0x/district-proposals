@@ -41,5 +41,4 @@ Note: Proposal incentive reward amounts are subject to change in the event of ab
 4. Press `Access`
 5. Select function -> `vote`
 6. In the `Candidate` field put the number of your selection, which is shown as the `ID:` on the voting interface
-7. Send the transaction. **No Ether or DNT is required to send**. The recommended gas limit is 100000   
-
+7. Send the transaction. **No DNT is required to send**, but please ensure you have a very small amount of ETH (<0.001) to cover for the gas fee. The recommended gas limit is 100000.
