@@ -29,7 +29,7 @@ If you would like your proposal to be considered for a reward, please be sure to
 Note: Proposal incentive reward amounts are subject to change in the event of abuse of the system
 
 ## Proposal Labels
-[Proposal Labels](https://github.com/district0x/district-proposals/labels) are used to highlight similar proposals as well as offer an easy way to collaborate. If you feel your proposal is incorrectly labeled please comment with the correct market label or a newly suggested label that better describes your target market segment. To expedite this, feel free to reach out to a community manager on Slack, Reddit or Telegram.
+[Proposal Labels](https://github.com/district0x/district-proposals/labels) are used to highlight similar proposals as well as offer an easy way to collaborate. If you feel your proposal is incorrectly labeled, please comment with the correct market label or a newly suggested label that better describes your target market segment. To expedite this, feel free to reach out to a community manager on Slack, Reddit or Telegram.
 
 The following tags are active:
 * **Yellow Market Label** - Market segment/category or community type
