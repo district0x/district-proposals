@@ -41,6 +41,8 @@ Note: Proposal incentive reward amounts are subject to change in the event of ab
 * **Green 'Merge' Label** - The ‘Merge’ tag has now been added for people taking the initiative to merge ideas and proposals into a single district. These proposals will be closed after an effort to collaborate and work on the new proposal has been finalized. To request an official "Merge", reach out to a community manger of Slack, Telegram or Reddit.
 * **Red 'Spam' Label** - This tag will be to flag people who have been submitting spam proposals, refusing to respond to our inquiries or a refusal to adhere to proposal standards. Upon receiving the spam tag, your account will be blocked from interacting with the GitHub repo. Continued abuse in any form will result in a report to GitHub staff to investigate the account(s).
 
+These labels and purposed are subject to change often and we will update everyone to those changes in our [weekly publication](https://blog.district0x.io/).
+
 ## How to vote from MyEtherWallet
 1. Go to https://www.myetherwallet.com/#contracts
 2. In the `Contract Address` field insert the contract address displayed on the voting interface
