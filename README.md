@@ -31,7 +31,7 @@ Note: Proposal incentive reward amounts are subject to change in the event of ab
 ## Proposal Labels
 [Proposal Labels](https://github.com/district0x/district-proposals/labels) are used to highlight similar proposals as well as offer an easy way to collaborate. If you feel your proposal is incorrectly labeled, please comment with the correct market label or a newly suggested label that better describes your target market segment. To expedite this, feel free to reach out to a community manager on Slack, Reddit or Telegram.
 
-**The following tags are active:**
+**The following labels are active:**
 * **Yellow Market Label** - Market segment/category or community type
 * **Blue 'Community' Label** - This label's purpose is to highlight the fact that the proposal is meant to operate as a community more than a market place with a specific market function and could encompass any community that requires a more robust form of governance using token access rules/bylaws. 
 * **Pink 'Duplicate' tag** - Indicates that a very similar proposal has already been submitted. A less thought out or developed duplicate may be closed.
