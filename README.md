@@ -1,5 +1,9 @@
 # District Proposals
-The district0x Network Token allows holders to signal for new districts to be built by the district0x team. Prior to the launch of Aragon Core on the MainNet, signaling will be conducted via a custom CarbonVote implementation. The CarbonVote implementation is hosted at https://vote.district0x.io/ and is automatically populated with proposals that have been deemed as 'qualifying'. Before you get started, be sure to familiarize yourself with the 'District Proposal Standard' as well as what is deemed a 'Qualifying proposal'. When ready, simply [submit your proposal as a new issue](https://github.com/district0x/district-proposals/issues/new) in this repo.
+The district0x Network Token allows holders to signal for new districts to be built by the district0x team. Prior to the launch of Aragon Core on the MainNet, signaling will be conducted via a custom [CarbonVote](http://carbonvote.com/) implementation. 
+
+The CarbonVote implementation is hosted at https://vote.district0x.io/ and is automatically populated with proposals that have been deemed as 'qualifying'. 
+
+Before you get started, be sure to familiarize yourself with the 'District Proposal Standard' as well as what is deemed a 'Qualifying Proposal'. When ready, simply [submit your proposal as a new issue](https://github.com/district0x/district-proposals/issues/new) in this repo.
 
 ## Qualifying Proposals
 To be deemed as a 'qualifying proposal' the following conditions must be met:
