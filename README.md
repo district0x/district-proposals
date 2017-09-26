@@ -6,6 +6,7 @@ To be deemed as a 'qualifying proposal' the following conditions must be met:
 * The proposal was submitted as an issue in the [district0x/district-proposals](https://github.com/district0x/district-proposals) repository
 * The proposed district adheres to the [District Proposal Standard template](#district-proposal-standard)
 * The proposed district is not unethical, as defined by the [district0x Network Code of Ethics](#district0x-network-code-of-ethics)
+Proposals not adhereing to these standards will be closed out and the 'Invalid' label will be attached. 
 
 ## District Proposal Standard
 The District Proposal Standard is a template for proposals designed to ensure that submissions have been well thought through and contain a sufficient amount of supporting details for the community to make an informed decision in regards to its potential utility afforded. All proposals should be structured as follows:
