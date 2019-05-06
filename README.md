@@ -27,7 +27,7 @@ See [DGP 1](https://github.com/district0x/governance/issues/1) in 'issues' in th
 
 ## Proposal Incentives
 To incentivize the submission of thoughtful district proposals, the following rewards will be issued:
-* 250   DNT = Proposal submitted as issue, adheres to District Proposal Standard, and is ethical
+* 500   DNT = Proposal submitted as issue, adheres to District Proposal Standard, and is ethical
 * 500000 DNT = Proposal is launched as a new district on the district0x Network
 
 If you would like your proposal to be considered for a reward, please be sure to include an ETH address in your proposal or in the comments. Alternatively, after completing the proposal, you may reach out to a district0x team member with this information on Slack.
