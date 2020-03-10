@@ -1,3 +1,4 @@
+## Deprecated
 # District Proposals
 The district0x Network Token allows holders to signal for new districts to be built by the district0x team. Prior to the launch of Aragon Core on the MainNet, signaling will be conducted via a custom [CarbonVote](http://carbonvote.com/) implementation. 
 
