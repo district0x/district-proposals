@@ -1,4 +1,3 @@
-## Deprecated
 # District Proposals
 The district0x Network Token allows holders to signal for new districts to be built by the district0x team. Prior to the launch of Aragon Core on the MainNet, signaling will be conducted via a custom [CarbonVote](http://carbonvote.com/) implementation. 
 
@@ -27,13 +26,14 @@ The District Proposal Standard is a template for proposals designed to ensure th
 See [DGP 1](https://github.com/district0x/governance/issues/1) in 'issues' in the [district0x/governance](https://github.com/district0x/governance/) repository
 
 ## Proposal Incentives
-To incentivize the submission of thoughtful district proposals, the following rewards will be issued:
-* 500   DNT = Proposal submitted as issue, adheres to District Proposal Standard, and is ethical
-* 500000 DNT = Proposal is launched as a new district on the district0x Network
+You can earn the District Network Token (DNT) by being an active governance participant within the District Token-Curated Registry (TCR). 
 
-If you would like your proposal to be considered for a reward, please be sure to include an ETH address in your proposal or in the comments. Alternatively, after completing the proposal, you may reach out to a district0x team member with this information on Slack.
+To incentivise proposals of new districts, we offer to cover your DNT and ETH fees for each submitted proposal along with an additional 2000 DNT for you to do as you please with. This is a limited set of bounties and will be “first come first serve”.
 
-Note: Proposal incentive reward amounts are subject to change in the event of abuse of the system
+Additionally, we are still giving the proposal creators 500,000 DNT if their district is selected to be built as the next district on the network.
+The District Registry entries that receives the most staked DNT will dictate what ones are selected as the next official marketplaces. The closing date for this selection process will be dependent on activity within the registry and our road-map progress.
+
+The district0x dev team will also build (or help build) user submitted districts even if the creator doesn’t know how to code. This is in anticipation of the launch of our “No/Low Code” dApp builder dubbed ‘District Designer’.
 
 ## Proposal Labels
 [Proposal Labels](https://github.com/district0x/district-proposals/labels) are used to highlight similar proposals as well as offer an easy way to collaborate. If you feel your proposal is incorrectly labeled, please comment with the correct market label or a newly suggested label that better describes your target market segment. To expedite this, feel free to reach out to a community manager on Slack, Reddit or Telegram.
